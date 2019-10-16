@@ -62,15 +62,16 @@ class Builder(Formatter):
                     taxonomy = taxonomy[:level] + [last_line]
                 elif line[0] == "`":
                     paper["title"] = line[1:]
-                elif line[0] == "<":
-                    paper["pdf"] = line[1: -3]
-                else:
-                    match = self.key_pattern.search(line)
-                    if match:
-                        key = match.group(1)
-                        value = match.group(2)
-                        value = self.separator.split(value)
-                        paper[key] = value
+                elif "title" in paper:
+                    if line[0] == "<":
+                        paper["pdf"] = line[1: -3]
+                    else:
+                        match = self.key_pattern.search(line)
+                        if match:
+                            key = match.group(1)
+                            value = match.group(2)
+                            value = self.separator.split(value)
+                            paper[key] = value
 
                 last_line = line
 
@@ -82,8 +83,6 @@ class Builder(Formatter):
             if len(item["venue"]) > 2:
                 item["workshop"] = True
             item["venue"], item["year"] = item["venue"][:2]
-            if item["venue"] == "arXiv":
-                item["year"] = "20" + item["year"][:2]
         new_item = super(Builder, self).format(item)
 
         return new_item
