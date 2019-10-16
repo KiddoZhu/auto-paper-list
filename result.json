@@ -1,0 +1,149 @@
+- author:
+  - Chenfei Wu
+  - Jinlai Liu
+  - Xiaojie Wang
+  - Xuan Dong
+  pdf: https://papers.nips.cc/paper/7311-chain-of-reasoning-for-visual-question-answering.pdf
+  title: Chain of Reasoning for Visual Question Answering
+  venue: NIPS
+  year: 2018
+- author:
+  - Sanghyun Woo
+  - Dahun Kim
+  - Donghyeon Cho
+  - In So Kweon
+  pdf: https://papers.nips.cc/paper/7337-linknet-relational-embedding-for-scene-graph.pdf
+  title: 'Linknet: Relational Embedding for Scene Graph'
+  venue: NIPS
+  year: 2018
+- author:
+  - Zi Yin
+  - Yuanyuan Shen
+  pdf: https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf
+  title: On the Dimensionality of Word Embedding
+  venue: NIPS
+  year: 2018
+- author:
+  - Kexin Yi
+  - Jiajun Wu
+  - Chuang Gan
+  - Antonio Torralba
+  - Pushmeet Kohli
+  - Josh Tenenbaum
+  pdf: https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf
+  title: 'Neural-symbolic Vqa: Disentangling Reasoning from Vision and Language Understanding'
+  venue: NIPS
+  year: 2018
+- author:
+  - Hongteng Xu
+  - Wenlin Wang
+  - Wei Liu
+  - Lawrence Carin
+  pdf: https://papers.nips.cc/paper/7443-distilled-wasserstein-learning-for-word-embedding-and-topic-modeling.pdf
+  title: Distilled Wasserstein Learning for Word Embedding and Topic Modeling
+  venue: NIPS
+  year: 2018
+- author:
+  - Xiaodan Liang
+  - Zhiting Hu
+  - Hao Zhang
+  - Liang Lin
+  - Eric P. Xing
+  pdf: https://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions.pdf
+  title: Symbolic Graph Reasoning Meets Convolutions
+  venue: NIPS
+  year: 2018
+- author:
+  - Binghui Chen
+  - Weihong Deng
+  - Haifeng Shen
+  pdf: https://papers.nips.cc/paper/7464-virtual-class-enhanced-discriminative-embedding-learning.pdf
+  title: Virtual Class Enhanced Discriminative Embedding Learning
+  venue: NIPS
+  year: 2018
+- author:
+  - Will Hamilton
+  - Payal Bajaj
+  - Marinka Zitnik
+  - Dan Jurafsky
+  - Jure Leskovec
+  pdf: https://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs.pdf
+  title: Embedding Logical Queries on Knowledge Graphs
+  venue: NIPS
+  year: 2018
+- author:
+  - Supasorn Suwajanakorn
+  - Noah Snavely
+  - Jonathan J. Tompson
+  - Mohammad Norouzi
+  pdf: https://papers.nips.cc/paper/7476-discovery-of-latent-3d-keypoints-via-end-to-end-geometric-reasoning.pdf
+  title: Discovery of Latent 3d Keypoints via End-to-end Geometric Reasoning
+  venue: NIPS
+  year: 2018
+- author:
+  - Medhini Narasimhan
+  - Svetlana Lazebnik
+  - Alexander Schwing
+  pdf: https://papers.nips.cc/paper/7531-out-of-the-box-reasoning-with-graph-convolution-nets-for-factual-visual-question-answering.pdf
+  title: 'Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual
+    Question Answering'
+  venue: NIPS
+  year: 2018
+- author:
+  - Seyed Mehran Kazemi
+  - David Poole
+  pdf: https://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs.pdf
+  title: Simple Embedding for Link Prediction in Knowledge Graphs
+  venue: NIPS
+  year: 2018
+- author:
+  - Edward Choi
+  - Cao Xiao
+  - Walter Stewart
+  - Jimeng Sun
+  pdf: https://papers.nips.cc/paper/7706-mime-multilevel-medical-embedding-of-electronic-health-records-for-predictive-healthcare.pdf
+  title: 'Mime: Multilevel Medical Embedding of Electronic Health Records for Predictive
+    Healthcare'
+  venue: NIPS
+  year: 2018
+- author:
+  - Ming Yu
+  - Zhuoran Yang
+  - Tuo Zhao
+  - Mladen Kolar
+  - Princeton Zhaoran Wang
+  pdf: https://papers.nips.cc/paper/7910-provable-gaussian-embedding-with-one-observation.pdf
+  title: Provable Gaussian Embedding with One Observation
+  venue: NIPS
+  year: 2018
+- author:
+  - Yu-An Chung
+  - Wei-Hung Weng
+  - Schrasing Tong
+  - James Glass
+  pdf: https://papers.nips.cc/paper/7965-unsupervised-cross-modal-alignment-of-speech-and-text-embedding-spaces.pdf
+  title: Unsupervised Cross-modal Alignment of Speech and Text Embedding Spaces
+  venue: NIPS
+  year: 2018
+- author:
+  - Xinyuan Zhang
+  - Yitong Li
+  - Dinghan Shen
+  - Lawrence Carin
+  pdf: https://papers.nips.cc/paper/7986-diffusion-maps-for-textual-network-embedding.pdf
+  title: Diffusion Maps for Textual Network Embedding
+  venue: NIPS
+  year: 2018
+- author:
+  - Bo Dai
+  - Hanjun Dai
+  - Niao He
+  - Weiyang Liu
+  - Zhen Liu
+  - Jianshu Chen
+  - Lin Xiao
+  - Le Song
+  pdf: https://papers.nips.cc/paper/8177-coupled-variational-bayes-via-optimization-embedding.pdf
+  title: Coupled Variational Bayes via Optimization Embedding
+  venue: NIPS
+  year: 2018
